@@ -1,5 +1,5 @@
 /*
-Assignment 5, If-else and if statements, Iterative computation
+Main Menu Project
 Author: Matthew Anthony
 Date: 6/29/22
 */
@@ -90,7 +90,7 @@ int main()
             {
                 printf("%d\t", a * b);
             }
-            //Looks messed up unless this is here
+            
             printf("\n");
         }
         break;
